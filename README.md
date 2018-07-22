@@ -1,3 +1,3 @@
 Welcome to Cstudy Repository by me!
-In here, my C lang practice program repository.
+Here is practice C programming repository.
 Thank you.
